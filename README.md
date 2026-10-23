@@ -22,7 +22,7 @@ Proyek ini adalah tugas implementasi antarmuka (*User Interface*) halaman utama 
 ---
 
 ## Project Description
-* **What we built**: Mengembangkan tiruan halaman utama (Home Screen) aplikasi super-app Gojek yang mencakup komponen header profil pengguna, menu grid layanan utama (seperti GoRide, GoCar, GoFood, dll), banner informasi promo, daftar rekomendasi merchant atau layanan pilihan, serta bilah navigasi bawah (bottom navigation).
+* **What we built**: Mengembangkan tiruan halaman utama (Home Screen) aplikasi super app Gojek yang mencakup komponen header profil pengguna, menu grid layanan utama (seperti GoRide, GoCar, GoFood, dll), banner informasi promo, daftar rekomendasi merchant atau layanan pilihan, serta bilah navigasi bawah (bottom navigation).
 * **What we learned**: Memahami cara menyusun komponen antarmuka berlapis di React Native, mengelola tata letak responsif dengan Flexbox, serta membiasakan diri memisahkan kode tampilan menggunakan StyleSheet.create.
 
 ---
