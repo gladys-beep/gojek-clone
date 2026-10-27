@@ -1,6 +1,7 @@
 # Gojek Home Screen UI Clone (React Native & Expo)
 - Nama: Gladys Huang
 - NIM: 253303620001
+  
 Proyek ini adalah tugas implementasi antarmuka (*User Interface*) halaman utama aplikasi **Gojek** menggunakan **React Native**, **Expo**, serta penerapan **StyleSheet** dan **Flexbox**.
 
 ---
